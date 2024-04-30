@@ -12,7 +12,7 @@ Installation
    :keywords: dependency, reactive streams, add package, sbt, maven
 
 The recommended way to get started with the {+driver-short+} in your
-project is by using a dependency management system. If you would like to manually'
+project is by using a dependency management system. If you would like to manually
  download our Scala drivers, you can do so via the `Scala driver Maven repository
  <https://mvnrepository.com/artifact/org.mongodb.scala/mongo-scala-driver>`__.
 
